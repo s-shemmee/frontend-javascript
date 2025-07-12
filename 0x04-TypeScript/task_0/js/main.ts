@@ -289,7 +289,7 @@ title.style.marginBottom = '30px';
 title.style.fontSize = '2.2em';
 
 const subtitle = document.createElement('p');
-subtitle.textContent = 'Kunugigaoka Junior High - Target: Koro-sensei';
+subtitle.textContent = 'Kunugigaoka Junior High  -  Target: Koro-sensei';
 subtitle.style.textAlign = 'center';
 subtitle.style.color = '#457b9d';
 subtitle.style.marginBottom = '30px';
